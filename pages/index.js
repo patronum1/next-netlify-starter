@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="encom node.js project" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Засвар хийгдэж байна</code>
         </p>
       </main>
 
